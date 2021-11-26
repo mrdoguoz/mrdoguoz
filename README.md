@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrdoguoz
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning, JavaScript, MsSQL, PowerBI, SSRS, SSIS, CRM Dynamics 365
 - 🌱 I’m currently learning Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mrdoguoz@gmail.com
